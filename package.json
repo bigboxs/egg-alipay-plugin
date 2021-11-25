@@ -1,6 +1,6 @@
 {
   "name": "egg-alipay-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "alipay plugin",
   "eggPlugin": {
     "name": "alipayPlugin"
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-alipay-plugin.git"
+    "url": "git+https://github.com/bigboxs/egg-alipay-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/bigboxs/egg-alipay-plugin/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-alipay-plugin#readme",
+  "homepage": "https://github.com/bigboxs/egg-alipay-plugin#readme",
   "author": "bigboxs",
   "license": "MIT"
 }
